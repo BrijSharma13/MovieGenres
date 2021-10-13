@@ -1,0 +1,48 @@
+.horror {
+  height: 400px;
+  width: 400px;
+  background-color: red;
+  position: absolute;
+}
+
+.romance {
+  background-color: #8591F2;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  left: 415px;
+}
+
+.action {
+  background-color: #F2A485;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  left: 822px;
+}
+
+.comedy {
+  background-color: #00B6FF;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 488px;
+}
+
+.mystery {
+  background-color: #9FF285;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 488px;
+  left: 415px;
+}
+
+.sci-fi {
+  background-color: #ECFF48;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 488px;
+  left: 822px;
+}
